@@ -6,4 +6,12 @@
   width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
+  background-color: #95dada;
+  border-radius: 15px;
+  width: 400px;
 }
+
+.search-box:focus{
+  border: 3px solid blue;
+} 
+
